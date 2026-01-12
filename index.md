@@ -54,12 +54,10 @@ title: 📚 程式課程學習中心
         <p>矩陣運算、數據繪圖與科學計算基礎。</p>
         <span class="btn-start">開始學習</span>
     </a>
-
     <a href="./ai/ch01" class="card">
-        <h2>🤖 AI 課程</h2>
+        <h2>🤖 AI課程</h2>
         <p>機器學習導論與神經網路實作教學。</p>
         <span class="btn-start">開始學習</span>
-    </a>
 </div>
 
 ---
